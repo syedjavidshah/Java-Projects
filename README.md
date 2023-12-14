@@ -1,2 +1,2 @@
-# Java-Projects
+# Java_Projects
 Bank Management System
